@@ -8,3 +8,4 @@
 - checking changes from UI
 - checking sequence from UI
 - Added a comment from testing perspective 
+- Making Changes
